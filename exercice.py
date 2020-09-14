@@ -21,7 +21,7 @@ def to_degrees(angle_rads: float) -> tuple:
 
 
 def to_celsius(temperature: float) -> float:
-    return (32 °F − 32) × 5/9 = 0 °C
+    return (temperature − 32) × 5/9
 
 
 
