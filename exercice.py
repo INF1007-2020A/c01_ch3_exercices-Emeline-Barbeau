@@ -25,7 +25,7 @@ def to_celsius(temperature: float) -> float:
 
 
 def to_farenheit(temperature: float) -> float:
-    return (temperature × 9/5) + 32 = 32 °F
+    return (temperature × 9/5) + 32
 
 
 def main() -> None:
